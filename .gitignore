@@ -1,7 +1,10 @@
 # OSX
 #
 .DS_Store
-.env
+
+#Quitar el .env, solo lo dejo por si el paquete falla
+#.env
+
 # Xcode
 #
 build/
