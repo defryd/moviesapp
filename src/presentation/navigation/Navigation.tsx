@@ -9,7 +9,7 @@ export type RootStackParams = {
 
 const Stack = createStackNavigator<RootStackParams>();
 
-export const Navigations = () => {
+export const Navigation = () => {
     return (
         <Stack.Navigator screenOptions={{
             headerShown: false
